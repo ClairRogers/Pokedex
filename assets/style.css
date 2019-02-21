@@ -1,0 +1,17 @@
+body {
+  background-image: url(/assets/images/grass.jpg);
+  height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.background {
+  background-color: #646f2d8f;
+  border: solid 1px black;
+}
+
+h1 {
+  color: white;
+  text-shadow: 0 0 5px black;
+}
